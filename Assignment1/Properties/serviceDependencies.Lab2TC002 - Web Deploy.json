@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/Lab2TC002/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsDefaultConnection_01E19F9067",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/ssdlab2tc002dbserver/databases/SSDLab2TC002_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnection",
+      "dynamicId": null
+    },
+    "secrets1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/Lab2TC002/providers/Microsoft.ServiceLinker/linkers/VaultUri_B69EA9CEDD",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/Lab2TC002KV",
+      "type": "secrets.keyVault",
+      "connectionId": "VaultUri"
+    }
+  }
+}

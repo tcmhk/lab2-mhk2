@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semic\\Downloads\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|c:\\users\\semic\\downloads\\assignment1\\assignment1\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|c:\\users\\semic\\downloads\\assignment1\\assignment1\\controllers\\employerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\controllers\\employerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|c:\\users\\semic\\downloads\\assignment1\\assignment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|c:\\users\\semic\\downloads\\assignment1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|c:\\users\\semic\\downloads\\assignment1\\assignment1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|c:\\users\\semic\\downloads\\assignment1\\assignment1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|c:\\users\\semic\\downloads\\assignment1\\assignment1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967D59-DFA2-43A5-AB8A-1CD39021C9E7}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:840618773:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment1\\appsettings.json",
+              "ToolTip": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\appsettings.json",
+              "RelativeToolTip": "Assignment1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T00:55:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployersController.cs",
+              "DocumentMoniker": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Controllers\\EmployersController.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Controllers\\EmployersController.cs",
+              "ToolTip": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Controllers\\EmployersController.cs",
+              "RelativeToolTip": "Assignment1\\Controllers\\EmployersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:57:18.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Assignment1\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:11:45.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:16:48.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T23:03:32.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Models\\Employer.cs",
+              "ToolTip": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Models\\Employer.cs",
+              "RelativeToolTip": "Assignment1\\Models\\Employer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:51:13.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\semic\\Downloads\\Assignment1\\Assignment1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Assignment1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:34:06.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
